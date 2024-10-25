@@ -1,0 +1,20 @@
+All primes in the range found
+Elapsed time is 0.0100181 seconds.
+Found all twins in the range, count:
+            8169
+Elapsed time is 0.200252 seconds.
+Plot built.
+Elapsed time is 0.547848 seconds.
+Percentage of primes: 
+            9.09
+%
+Elapsed time is 1.48089 seconds.
+Percentage of primes not divisible by 2,3,5,7,11: 
+            9.17
+%
+Elapsed time is 1.50452 seconds.
+The first 10 digit prime in pi is:
+      5926535897
+The first 10 digit prime in e is:
+      9676277207
+Elapsed time is 1.55687 seconds.
